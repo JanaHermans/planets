@@ -5,3 +5,5 @@ There are two moons.
 There is no water.
 
 The surface is dry.
+
+We will consider Venus as a base.
